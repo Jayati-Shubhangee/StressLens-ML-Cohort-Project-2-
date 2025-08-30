@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+gradio
+joblib
+# shap is optional (uncomment if you want local SHAP explainability)
+# shap

@@ -10,8 +10,8 @@
 - 🤖 **Multiple Models**: Logistic Regression (baseline), Random Forest (robust), and optional Gradient Boosting.  
 - 🔍 **Explainability**: Feature importance and optional SHAP plots to understand what influences stress predictions.  
 - 🖥 **Interactive Demo**: Gradio app to test predictions in real-time using sliders and dropdowns.  
-- 💾 **Saved Artifacts**: Models and feature metadata saved for reproducibility.  
-
+- 💾 **Saved Artifacts**: Models and feature metadata saved for reproducibility.
+  
 ---
 
 ## 📂 Project Structure
@@ -41,6 +41,7 @@ StressSense/
 - `requirements.txt` — Python dependencies.
 - `.gitignore` — Ignore bulky artifacts/venv.
 ---
+
 💻 Tech Stack
 
 Python 3.10+
@@ -53,6 +54,7 @@ Gradio (demo UI)
 
 Jupyter Notebook
 
+---
 
 📌 Future Enhancements
 
@@ -63,3 +65,5 @@ Add multi-language support for the app
 Incorporate SHAP explanations in the UI
 
 Expand dataset for better model accuracy
+
+---

@@ -52,7 +52,8 @@ joblib (model saving)
 Gradio (demo UI)
 
 Jupyter Notebook
----
+
+
 📌 Future Enhancements
 
 Deploy on Streamlit / Heroku / AWS for public access

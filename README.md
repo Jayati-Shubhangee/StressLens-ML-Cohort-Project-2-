@@ -1,6 +1,6 @@
 # StressSense — Early Stress Risk Screener (End-to-End ML)
 
-A compact, **utility-focused** end-to-end ML project that predicts **stress level** (Low/Moderate/High) from lifestyle and study/work patterns. Built to be **completed in ~2 hours**.
+A compact, **utility-focused** end-to-end ML project that predicts **stress level** (Low/Moderate/High) from lifestyle and study/work patterns. 
 
 ---
 
